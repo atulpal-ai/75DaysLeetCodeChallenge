@@ -38,3 +38,15 @@ This challenge helps me build discipline and improve my coding skills step by st
 ---
 
 💡 Feel free to explore the solutions and learn along with me!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
