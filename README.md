@@ -1,30 +1,29 @@
 # 75 Days LeetCode Challenge 🚀
 
-This repository contains my solutions for the **75 Days LeetCode Challenge**.
+This repository contains my solutions for the **75 Days LeetCode Challenge**.  
 The goal of this challenge is to improve my **Data Structures and Algorithms (DSA)** skills by solving problems consistently every day.
 
 ## 🎯 Challenge Goal
 
-* Solve LeetCode problems for **75 days continuously**
-* Improve **problem-solving skills**
-* Strengthen understanding of **Data Structures and Algorithms**
-* Prepare for **technical interviews**
+- Solve LeetCode problems for **75 days continuously**
+- Improve **problem-solving skills**
+- Strengthen understanding of **Data Structures and Algorithms**
+- Prepare for **technical interviews**
 
 ## 📅 Progress
 
 I will upload solutions daily with clean and well-structured code.
 
-| Day   | Problem                                        | Difficulty | Solution |
-| ----- | ---------------------------------------------- | ---------- | -------- |
-| Day 1 | Two Sum                                        | Easy       | ✔        |
-| Day 2 | Add Two Numbers                                | Medium     | ✔        |
-| Day 3 | Longest Substring Without Repeating Characters | Medium     | ✔        |
+| Day | Problem | Difficulty | Solution |
+|-----|--------|-----------|---------|
+| Day 1 | Two Sum | Easy | ✔ |
+| Day 2 | Contains Duplicate | Easy | ✔ |
 
 *(Table will be updated daily)*
 
-## 🛠 Languages Used
+## 🛠 Language Used
 
-* Python / Java / C++ (depending on the problem)
+- C++
 
 ## 📌 Platform
 
@@ -32,7 +31,7 @@ Problems are solved from **LeetCode**.
 
 ## ⭐ Motivation
 
-Consistency is the key to mastering coding.
+Consistency is the key to mastering coding.  
 This challenge helps me build discipline and improve my coding skills step by step.
 
 ---
@@ -41,18 +40,22 @@ This challenge helps me build discipline and improve my coding skills step by st
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+
 ## Array
 |  |
-| ------- |
+|-------|
 | [0001-two-sum](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+
 ## Hash Table
 |  |
-| ------- |
+|-------|
 | [0001-two-sum](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+
 ## Sorting
 |  |
-| ------- |
+|-------|
 | [0217-contains-duplicate](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+
 <!---LeetCode Topics End-->
