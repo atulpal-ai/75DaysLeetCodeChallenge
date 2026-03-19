@@ -21,6 +21,8 @@ I will upload solutions daily with clean and well-structured code.
 | Day 3 | Valid Anagram | Easy | ✔ |
 | Day 4 | Find All Numbers Disappeared in an Array | Easy | ✔ |
 | Day 5 | Group Anagrams | Medium | ✔ |
+| Day 6 | Top K Frequent Elements | Medium | ✔ |
+| Day 7 | Product of Array Except Self | Medium | ✔ |
 
 *(Table will be updated daily)*
 
