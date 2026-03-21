@@ -50,6 +50,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -104,5 +105,6 @@ This challenge helps me build discipline and improve my coding skills step by st
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
