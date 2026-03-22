@@ -25,6 +25,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 7 | Product of Array Except Self | Medium | ✔ |
 | Day 8 | Valid Palindrome | Easy | ✔ |
 | Day 9 | Remove Duplicates from Sorted Array | Easy | ✔ |
+| Day 10 | Move Zeroes | Easy | ✔ |
 
 *(Table will be updated daily)*
 
