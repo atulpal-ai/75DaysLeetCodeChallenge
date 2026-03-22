@@ -56,6 +56,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | [0217-contains-duplicate](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0242-valid-anagram](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0283-move-zeroes](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
@@ -108,4 +109,5 @@ This challenge helps me build discipline and improve my coding skills step by st
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
