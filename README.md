@@ -26,6 +26,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 8 | Valid Palindrome | Easy | ✔ |
 | Day 9 | Remove Duplicates from Sorted Array | Easy | ✔ |
 | Day 10 | Move Zeroes | Easy | ✔ |
+| Day 11 | Two Sum II - Input Array Is Sorted | Medium | ✔ |
 
 *(Table will be updated daily)*
 
