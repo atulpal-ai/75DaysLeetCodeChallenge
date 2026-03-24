@@ -53,6 +53,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -73,6 +74,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -110,6 +112,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
