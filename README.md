@@ -28,6 +28,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 10 | Move Zeroes | Easy | ✔ |
 | Day 11 | Two Sum II - Input Array Is Sorted | Medium | ✔ |
 | Day 12 | 3Sum | Medium | ✔ |
+| Day 13 | Container With Most Water | Medium | ✔ |
 
 *(Table will be updated daily)*
 
