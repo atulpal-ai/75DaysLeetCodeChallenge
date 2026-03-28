@@ -31,6 +31,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 13 | Container With Most Water | Medium | ✔ |
 | Day 14 | Best Time to Buy and Sell Stock | Easy | ✔ |
 | Day 15 | Maximum Average Subarray I | Easy | ✔ |
+| Day 16 | Longest Substring Without Repeating Characters | Medium | ✔ |
 
 *(Table will be updated daily)*
 
