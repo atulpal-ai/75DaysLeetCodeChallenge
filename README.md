@@ -33,6 +33,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 15 | Maximum Average Subarray I | Easy | ✔ |
 | Day 16 | Longest Substring Without Repeating Characters | Medium | ✔ |
 | Day 17 | Longest Repeating Character Replacement | Medium | ✔ |
+| Day 18 | Valid Parentheses | Easy | ✔ |
 
 *(Table will be updated daily)*
 
