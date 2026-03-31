@@ -34,6 +34,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 16 | Longest Substring Without Repeating Characters | Medium | ✔ |
 | Day 17 | Longest Repeating Character Replacement | Medium | ✔ |
 | Day 18 | Valid Parentheses | Easy | ✔ |
+| Day 19 | Implement Queue using Stacks | Easy | ✔ |
 
 *(Table will be updated daily)*
 
