@@ -151,10 +151,12 @@ This challenge helps me build discipline and improve my coding skills step by st
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
