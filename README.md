@@ -35,6 +35,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 17 | Longest Repeating Character Replacement | Medium | ✔ |
 | Day 18 | Valid Parentheses | Easy | ✔ |
 | Day 19 | Implement Queue using Stacks | Easy | ✔ |
+| Day 20 | Min Stack | Medium | ✔ |
 
 *(Table will be updated daily)*
 
