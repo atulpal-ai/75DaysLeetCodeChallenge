@@ -66,6 +66,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | [0015-3sum](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -152,6 +153,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -163,4 +165,8 @@ This challenge helps me build discipline and improve my coding skills step by st
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
