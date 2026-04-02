@@ -36,6 +36,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 18 | Valid Parentheses | Easy | ✔ |
 | Day 19 | Implement Queue using Stacks | Easy | ✔ |
 | Day 20 | Min Stack | Medium | ✔ |
+| Day 21 | Evaluate Reverse Polish Notation | Medium | ✔ |
 
 *(Table will be updated daily)*
 
