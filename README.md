@@ -38,6 +38,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 20 | Min Stack | Medium | ✔ |
 | Day 21 | Evaluate Reverse Polish Notation | Medium | ✔ |
 | Day 22 | Daily Temperatures | Medium | ✔ |
+| Day 23 | Binary Search | Easy | ✔ |
 
 *(Table will be updated daily)*
 
