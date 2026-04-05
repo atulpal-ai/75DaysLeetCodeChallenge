@@ -68,6 +68,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | [0011-container-with-most-water](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -143,6 +144,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Greedy
