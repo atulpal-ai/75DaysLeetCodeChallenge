@@ -39,6 +39,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 21 | Evaluate Reverse Polish Notation | Medium | ✔ |
 | Day 22 | Daily Temperatures | Medium | ✔ |
 | Day 23 | Binary Search | Easy | ✔ |
+| Day 24 | Search Insert Position | Easy | ✔ |
 
 *(Table will be updated daily)*
 
