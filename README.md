@@ -71,6 +71,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -146,6 +147,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Greedy
@@ -183,4 +185,8 @@ This challenge helps me build discipline and improve my coding skills step by st
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
