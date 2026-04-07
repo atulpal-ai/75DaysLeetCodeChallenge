@@ -41,6 +41,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 23 | Binary Search | Easy | ✔ |
 | Day 24 | Search Insert Position | Easy | ✔ |
 | Day 25 | Search a 2D Matrix | Medium | ✔ |
+| Day 26 | Find Minimum in Rotated Sorted Array | Medium | ✔ |
 
 *(Table will be updated daily)*
 
