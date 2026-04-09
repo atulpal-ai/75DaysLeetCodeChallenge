@@ -43,6 +43,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 25 | Search a 2D Matrix | Medium | ✔ |
 | Day 26 | Find Minimum in Rotated Sorted Array | Medium | ✔ |
 | Day 27 | Search in Rotated Sorted Array | Medium | ✔ |
+| Day 28 | Reverse Linked List | Easy | ✔ |
 
 *(Table will be updated daily)*
 
