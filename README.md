@@ -196,4 +196,12 @@ This challenge helps me build discipline and improve my coding skills step by st
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
