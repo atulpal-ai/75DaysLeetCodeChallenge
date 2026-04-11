@@ -45,6 +45,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 27 | Search in Rotated Sorted Array | Medium | ✔ |
 | Day 28 | Reverse Linked List | Easy | ✔ |
 | Day 29 | Merge Two Sorted Lists | Easy | ✔ |
+| Day 30 | Linked List Cycle | Easy | ✔ |
 
 *(Table will be updated daily)*
 
