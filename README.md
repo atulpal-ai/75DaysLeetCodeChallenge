@@ -46,6 +46,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 28 | Reverse Linked List | Easy | ✔ |
 | Day 29 | Merge Two Sorted Lists | Easy | ✔ |
 | Day 30 | Linked List Cycle | Easy | ✔ |
+| Day 31 | Middle of the Linked List | Easy | ✔ |
 
 *(Table will be updated daily)*
 
