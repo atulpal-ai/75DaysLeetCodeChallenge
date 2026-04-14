@@ -48,6 +48,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 30 | Linked List Cycle | Easy | ✔ |
 | Day 31 | Middle of the Linked List | Easy | ✔ |
 | Day 32 | Reorder List | Medium | ✔ |
+| Day 33 | Remove Nth Node From End of List | Medium | ✔ |
 
 *(Table will be updated daily)*
 
