@@ -49,6 +49,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 31 | Middle of the Linked List | Easy | ✔ |
 | Day 32 | Reorder List | Medium | ✔ |
 | Day 33 | Remove Nth Node From End of List | Medium | ✔ |
+| Day 34 | Invert Binary Tree | Easy | ✔ |
 
 *(Table will be updated daily)*
 
