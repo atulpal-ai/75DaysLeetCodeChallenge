@@ -50,6 +50,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 32 | Reorder List | Medium | ✔ |
 | Day 33 | Remove Nth Node From End of List | Medium | ✔ |
 | Day 34 | Invert Binary Tree | Easy | ✔ |
+| Day 35 | Maximum Depth of Binary Tree | Easy | ✔ |
 
 *(Table will be updated daily)*
 
