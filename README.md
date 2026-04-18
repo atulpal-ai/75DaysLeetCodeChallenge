@@ -52,6 +52,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 34 | Invert Binary Tree | Easy | ✔ |
 | Day 35 | Maximum Depth of Binary Tree | Easy | ✔ |
 | Day 36 | Same Tree | Easy | ✔ |
+| Day 37 | Subtree of Another Tree | Easy | ✔ |
 
 *(Table will be updated daily)*
 
