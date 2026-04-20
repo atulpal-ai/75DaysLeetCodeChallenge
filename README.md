@@ -54,6 +54,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 36 | Same Tree | Easy | ✔ |
 | Day 37 | Subtree of Another Tree | Easy | ✔ |
 | Day 38 | Path Sum | Easy | ✔ |
+| Day 39 | Diameter of Binary Tree | Easy | ✔ |
 
 *(Table will be updated daily)*
 
