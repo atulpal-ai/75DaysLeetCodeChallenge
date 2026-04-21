@@ -55,6 +55,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 37 | Subtree of Another Tree | Easy | ✔ |
 | Day 38 | Path Sum | Easy | ✔ |
 | Day 39 | Diameter of Binary Tree | Easy | ✔ |
+| Day 40 | Lowest Common Ancestor of BST | Medium | ✔ |
 
 *(Table will be updated daily)*
 
