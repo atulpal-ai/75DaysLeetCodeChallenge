@@ -56,6 +56,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 38 | Path Sum | Easy | ✔ |
 | Day 39 | Diameter of Binary Tree | Easy | ✔ |
 | Day 40 | Lowest Common Ancestor of BST | Medium | ✔ |
+| Day 41 | Binary Tree Level Order Traversal | Medium | ✔ |
 
 *(Table will be updated daily)*
 
