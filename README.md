@@ -58,6 +58,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 40 | Lowest Common Ancestor of BST | Medium | ✔ |
 | Day 41 | Binary Tree Level Order Traversal | Medium | ✔ |
 | Day 42 | Validate Binary Search Tree | Medium | ✔ |
+| Day 43 | Kth Smallest Element in BST | Medium | ✔ |
 
 *(Table will be updated daily)*
 
