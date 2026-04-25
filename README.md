@@ -59,6 +59,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 41 | Binary Tree Level Order Traversal | Medium | ✔ |
 | Day 42 | Validate Binary Search Tree | Medium | ✔ |
 | Day 43 | Kth Smallest Element in BST | Medium | ✔ |
+| Day 44 | Implement Trie (Prefix Tree) | Medium | ✔ |
 
 *(Table will be updated daily)*
 
