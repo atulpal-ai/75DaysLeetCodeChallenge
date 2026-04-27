@@ -61,6 +61,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 43 | Kth Smallest Element in BST | Medium | ✔ |
 | Day 44 | Implement Trie (Prefix Tree) | Medium | ✔ |
 | Day 45 | Design Add and Search Words Data Structure | Medium | ✔ |
+| Day 46 | Longest Common Prefix | Easy | ✔ |
 
 *(Table will be updated daily)*
 
