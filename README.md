@@ -64,6 +64,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 46 | Longest Common Prefix | Easy | ✔ |
 | Day 47 | Single Number | Easy | ✔ |
 | Day 48 | Majority Element | Easy | ✔ |
+| Day 49 | Valid Sudoku | Medium | ✔ |
 
 *(Table will be updated daily)*
 
