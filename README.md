@@ -65,6 +65,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 47 | Single Number | Easy | ✔ |
 | Day 48 | Majority Element | Easy | ✔ |
 | Day 49 | Valid Sudoku | Medium | ✔ |
+| Day 50 | Longest Consecutive Sequence | Medium | ✔ |
 
 *(Table will be updated daily)*
 
