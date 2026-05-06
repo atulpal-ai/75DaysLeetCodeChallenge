@@ -66,6 +66,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 48 | Majority Element | Easy | ✔ |
 | Day 49 | Valid Sudoku | Medium | ✔ |
 | Day 50 | Longest Consecutive Sequence | Medium | ✔ |
+| Day 51 | Subarray Sum Equals K | Medium | ✔ |
 
 *(Table will be updated daily)*
 
