@@ -68,6 +68,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 50 | Longest Consecutive Sequence | Medium | ✔ |
 | Day 51 | Subarray Sum Equals K | Medium | ✔ |
 | Day 52 | Reverse String | Easy | ✔ |
+| Day 53 | Squares of a Sorted Array | Easy | ✔ |
 
 *(Table will be updated daily)*
 
