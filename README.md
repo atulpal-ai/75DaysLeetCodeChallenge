@@ -69,6 +69,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 51 | Subarray Sum Equals K | Medium | ✔ |
 | Day 52 | Reverse String | Easy | ✔ |
 | Day 53 | Squares of a Sorted Array | Easy | ✔ |
+| Day 54 | Sort Colors | Medium | ✔ |
 
 *(Table will be updated daily)*
 
