@@ -71,6 +71,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 53 | Squares of a Sorted Array | Easy | ✔ |
 | Day 54 | Sort Colors | Medium | ✔ |
 | Day 55 | 3Sum Closest | Medium | ✔ |
+| Day 56 | Minimum Size Subarray Sum | Medium | ✔ |
 
 *(Table will be updated daily)*
 
