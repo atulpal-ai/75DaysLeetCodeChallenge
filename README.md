@@ -126,6 +126,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | [0643-maximum-average-subarray-i](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0904-fruit-into-baskets](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -143,6 +144,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | [0347-top-k-frequent-elements](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -234,6 +236,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | [0209-minimum-size-subarray-sum](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## Stack
 |  |
 | ------- |
