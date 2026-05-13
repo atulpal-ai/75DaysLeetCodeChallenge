@@ -73,6 +73,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 55 | 3Sum Closest | Medium | ✔ |
 | Day 56 | Minimum Size Subarray Sum | Medium | ✔ |
 | Day 57 | Fruit Into Baskets | Medium | ✔ |
+| Day 58 | Permutation in String | Medium | ✔ |
 
 *(Table will be updated daily)*
 
