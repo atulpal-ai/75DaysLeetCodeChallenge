@@ -74,6 +74,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 56 | Minimum Size Subarray Sum | Medium | ✔ |
 | Day 57 | Fruit Into Baskets | Medium | ✔ |
 | Day 58 | Permutation in String | Medium | ✔ |
+| Day 59 | Next Greater Element I | Easy | ✔ |
 
 *(Table will be updated daily)*
 
