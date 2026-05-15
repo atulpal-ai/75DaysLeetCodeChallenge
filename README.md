@@ -75,6 +75,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 57 | Fruit Into Baskets | Medium | ✔ |
 | Day 58 | Permutation in String | Medium | ✔ |
 | Day 59 | Next Greater Element I | Easy | ✔ |
+| Day 60 | Largest Rectangle in Histogram | Hard | ✔ |
 
 *(Table will be updated daily)*
 
