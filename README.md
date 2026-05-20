@@ -77,6 +77,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 59 | Next Greater Element I | Easy | ✔ |
 | Day 60 | Largest Rectangle in Histogram | Hard | ✔ |
 | Day 61 | Decode String | Medium | ✔ |
+| Day 62 | First Bad Version | Easy | ✔ |
 
 *(Table will be updated daily)*
 
