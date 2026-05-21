@@ -78,6 +78,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 60 | Largest Rectangle in Histogram | Hard | ✔ |
 | Day 61 | Decode String | Medium | ✔ |
 | Day 62 | First Bad Version | Easy | ✔ |
+| Day 63 | Find Peak Element | Medium | ✔ |
 
 *(Table will be updated daily)*
 
