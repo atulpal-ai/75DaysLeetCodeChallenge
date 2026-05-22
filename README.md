@@ -79,6 +79,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 61 | Decode String | Medium | ✔ |
 | Day 62 | First Bad Version | Easy | ✔ |
 | Day 63 | Find Peak Element | Medium | ✔ |
+| Day 64 | Koko Eating Bananas | Medium | ✔ |
 
 *(Table will be updated daily)*
 
