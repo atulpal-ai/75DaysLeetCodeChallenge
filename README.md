@@ -82,6 +82,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 64 | Koko Eating Bananas | Medium | ✔ |
 | Day 65 | Remove Duplicates from Sorted List | Easy | ✔ |
 | Day 66 | Intersection of Two Linked Lists | Easy | ✔ |
+| Day 67 | Add Two Numbers | Medium | ✔ |
 
 *(Table will be updated daily)*
 
