@@ -83,6 +83,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 65 | Remove Duplicates from Sorted List | Easy | ✔ |
 | Day 66 | Intersection of Two Linked Lists | Easy | ✔ |
 | Day 67 | Add Two Numbers | Medium | ✔ |
+| Day 68 | Binary Tree Right Side View | Medium | ✔ |
 
 *(Table will be updated daily)*
 
