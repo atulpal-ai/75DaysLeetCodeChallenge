@@ -85,6 +85,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 67 | Add Two Numbers | Medium | ✔ |
 | Day 68 | Binary Tree Right Side View | Medium | ✔ |
 | Day 69 | Lowest Common Ancestor of a Binary Tree | Medium | ✔ |
+| Day 70 | Binary Tree Preorder Traversal | Easy | ✔ |
 
 *(Table will be updated daily)*
 
