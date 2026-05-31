@@ -86,6 +86,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 68 | Binary Tree Right Side View | Medium | ✔ |
 | Day 69 | Lowest Common Ancestor of a Binary Tree | Medium | ✔ |
 | Day 70 | Binary Tree Preorder Traversal | Easy | ✔ |
+| Day 71 | Word Search II | Hard | ✔ |
 
 *(Table will be updated daily)*
 
