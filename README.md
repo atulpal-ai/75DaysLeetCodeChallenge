@@ -88,6 +88,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 70 | Binary Tree Preorder Traversal | Easy | ✔ |
 | Day 71 | Word Search II | Hard | ✔ |
 | Day 72 | Kth Largest Element in a Stream | Easy | ✔ |
+| Day 73 | Last Stone Weight | Easy | ✔ |
 
 *(Table will be updated daily)*
 
