@@ -89,6 +89,7 @@ I will upload solutions daily with clean and well-structured code.
 | Day 71 | Word Search II | Hard | ✔ |
 | Day 72 | Kth Largest Element in a Stream | Easy | ✔ |
 | Day 73 | Last Stone Weight | Easy | ✔ |
+| Day 74 | Kth Largest Element in an Array | Medium | ✔ |
 
 *(Table will be updated daily)*
 
