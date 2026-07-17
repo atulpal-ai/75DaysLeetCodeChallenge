@@ -200,6 +200,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | [0242-valid-anagram](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
@@ -310,6 +311,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | ------- |
 | [0002-add-two-numbers](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -443,4 +445,8 @@ This challenge helps me build discipline and improve my coding skills step by st
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
