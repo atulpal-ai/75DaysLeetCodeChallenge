@@ -311,6 +311,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
