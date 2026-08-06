@@ -313,6 +313,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | [0002-add-two-numbers](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Monotonic Stack
@@ -346,6 +347,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | [0021-merge-two-sorted-lists](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 ## Tree
 |  |
@@ -433,6 +435,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | ------- |
 | [0136-single-number](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 ## Union-Find
 |  |
 | ------- |
