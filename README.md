@@ -153,6 +153,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | [0904-fruit-into-baskets](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +174,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | [0560-subarray-sum-equals-k](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
