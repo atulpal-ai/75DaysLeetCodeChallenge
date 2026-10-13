@@ -149,6 +149,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | [0643-maximum-average-subarray-i](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -270,6 +271,7 @@ This challenge helps me build discipline and improve my coding skills step by st
 | [0209-minimum-size-subarray-sum](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
@@ -458,4 +460,8 @@ This challenge helps me build discipline and improve my coding skills step by st
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/atulpal-ai/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
